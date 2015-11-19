@@ -1,8 +1,9 @@
 # clockFlavio
-Inspired in the following video (https://goo.gl/3cdALa), dedicated specially in to the peoples at the video comments that was asking for the source code. Our clock is a little bit more special, our clock rotates :-) !. My intention is to produce a 100% free open-source code to help people around the world struggling to learn C and trying to make his 1st program on life happens.
+Inspired in the following video (https://goo.gl/3cdALa), dedicated specially to those people asking for the source code in the video. Our clock is a little bit more special, beaultful, colorful, different and it rotates :-) !. My intention is to produce a 100% free open-source code to help people around the world struggling to learn C language and trying to make his 1st program on his life.
+
+whether you're a beginner of an experienced programmer, your suggestions are welcome.
 
 You can reach me on twitter: @fvilante
 
-See you soon,
 My best regards
 Flavio Vilante
