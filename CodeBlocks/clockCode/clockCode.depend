@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1458895477 source:/home/flavio/Desktop/projetos/clockCode/CLOCK.CPP
+	<stdio.h>
+	<stdlib.h>
+	"graphics.h"
+	<time.h>
+	<iostream>
+	<string.h>
+	<math.h>
+
