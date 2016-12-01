@@ -334,10 +334,9 @@ void drawClock(int x, int y, float scale = 100, float rotationAngle = 0,
 
 void InitializeScreen()
 {
-	int gdriver = DETECT, gmode, errorcode;
-	initgraph(&gdriver, &gmode, "C:\\TC\\BGI");
-				//Note that you have to verify where in your OWN computer
-				//the BGI drives files exists, and correct this PATH address if necessary.
+	int gd=DETECT,gm; 
+	initgraph(&gd,&gm,NULL);
+	
 	setcolor(4);
 	setlinestyle (0, 0, 0);
 	getTime(TICK_CLOCK); //start program clock object
