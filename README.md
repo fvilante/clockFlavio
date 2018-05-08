@@ -8,4 +8,4 @@ Whether you're a beginner of an experienced programmer, your suggestions are wel
 You can reach me on twitter: @fvilante
 
 My best regards
-Flavio Vilante
+Flavio Vilante.
